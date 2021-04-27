@@ -7,12 +7,12 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Technology, life, freadom',
-  domain: 'blog-omega-gray.vercel.app',
+  name: 'Technology, life, freedom',
+  domain: 'kif.codercat.tk',
   author: 'Kirill Kovalevskiy',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'Blog about technology, life and freedom',
   socialImageTitle: 'Some social title',
   socialImageSubtitle: 'Hello World! 👋',
 
